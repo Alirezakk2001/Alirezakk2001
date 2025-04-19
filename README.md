@@ -36,6 +36,18 @@
   - همکاری در ساخت دستگاه‌های پزشکی
   - تجربه مهندسی معکوس
 
+
+---
+
+## 🌐 طراحی سایت و وردپرس
+
+- آشنایی کامل با **وردپرس (WordPress)**  
+- توانایی طراحی و راه‌اندازی سایت‌های شخصی، شرکتی یا فروشگاهی  
+- تجربه در نصب و تنظیم قالب‌ها، افزونه‌ها و بهینه‌سازی عملکرد  
+- آشنایی با **مفاهیم پایه‌ی SEO** و بهینه‌سازی سایت برای موتورهای جستجو  
+- کار با ابزارهایی مانند **PageSpeed Insights**، **Yoast SEO** و **Google Search Console** برای بهبود رتبه و عملکرد سایت
+
+
 ---
 
 ## 🧠 مهارت‌های فردی
@@ -59,19 +71,20 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+    <img src="icons/raspberry-pi.svg" height="40" alt="raspberry-pi" />
+    <img src="icons/wifi.svg" height="40" alt="WiFi" />
+    <img src="icons/bluetooth.svg" height="40" alt="Bluetooth" />
+    <img src="icons/esp32.png" height="40" alt="ESP" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-    <img src="icons/raspberry-pi.svg" height="40" alt="raspberry-pi" />
-    <img src="icons/esp32.png" height="40" alt="ESP32" />
     <img src="icons/Altium.png" height="40" alt="Altuim" />
-    <img src="icons/Cube.png" height="40" alt="CubeMX" />
-    <img src="icons/Wifi.SVG" height="40" alt="WiFi" />
-    <img src="icons/bluetooth.SVG" height="40" alt="Bluetooth" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
     <img src="https://logotyp.us/file/keil.svg" height="40" alt="Keil" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/STM32CubeMX_Logo.svg" height="40" alt="STM32Cube" />
+    <img src="icons/Cube.png" height="40" alt="CubeMX" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+    <img src="icons/postman.svg" height="40" alt="POSTMAN" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
   </p>
 
 
