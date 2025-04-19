@@ -52,53 +52,19 @@
 
 ---
 
-# 👨‍💻 Android & Electronics Developer (EN)
+### ⚙️ ابزارها و زبان‌هایی که با آن‌ها کار کرده‌ام:
+ 
+  <p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon_%282023%29.svg" height="40" alt="Android Studio" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="icons/raspberry-pi.svg" height="40" alt="raspberry-pi" />
+  <img src="icons/esp32.png" height="40" alt="ESP32" />
+  <img src="icons/Altium.png" height="40" alt="Altuim" />
+  </p>
 
-Hi! I'm an Android developer and electronics engineer passionate about creating innovative software and hardware solutions. From mobile apps to embedded systems and IOT, I'm always eager to take on new challenges and learn more along the way.
-
----
-
-## 📱 Android Skills
-
-- Proficient in **Java** and **Kotlin**
-- Strong knowledge of **SQL**, **REST APIs**, **LiveData**, **DataBinding**, and **Dependency Injection**
-- Familiar with **Design Patterns**
-- Experience with **Bluetooth**, **WiFi**, and **USB** communication
-- Worked with **IOT** systems and device connectivity
-- Experience developing apps on **Embedded Boards** like **Firefly** and **Raspberry Pi**
-- Developed full-featured Android apps:
-  - Smart LED controller
-  - Smart car control
-  - Digital scale communication
-- Able to deliver end-to-end Android projects
-
----
-
-## 🔧 Electronics & Embedded
-
-- Strong foundation in **Electronics**
-- Proficient in **Altium Designer** (single, double, multilayer PCB design)
-- Skilled in **C** and **C++**
-- Experienced with **AVR**, **ARM**, and **ESP** microcontrollers
-- Sample projects:
-  - Line follower robot
-  - Solar tracking system with WiFi data transmission
-  - Induction heating system
-  - RF device hardware design (beauty sector)
-  - Participation in medical device development
-  - Reverse engineering experience
-
----
-
-## 🧠 Personal Skills
-
-- Passionate about learning new tech
-- Great at problem-solving
-- Experienced with **Git** and team collaboration
-
----
-## 📫 Contact Me
-
-For collaboration or to see more of my work, feel free to reach out via GitHub or email:
-📧 alireza.karami.work@gmial.com 😊
 
