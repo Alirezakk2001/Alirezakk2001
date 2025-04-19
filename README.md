@@ -78,10 +78,10 @@
     <img src="icons/esp32.png" height="40" alt="ESP" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-    <img src="icons/Altium.png" height="40" alt="Altuim" />
     <img src="https://logotyp.us/file/keil.svg" height="40" alt="Keil" />
     <img src="icons/Cube.png" height="40" alt="CubeMX" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+    <img src="icons/Altium.png" height="40" alt="Altuim" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
     <img src="icons/postman.svg" height="40" alt="POSTMAN" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
