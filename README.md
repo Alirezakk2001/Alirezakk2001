@@ -55,7 +55,7 @@
 ### ⚙️ ابزارها و زبان‌هایی که با آن‌ها کار کرده‌ام:
  
   <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon_%282023%29.svg" height="40" alt="Android Studio" />
+  <img src="icons/android-studio.png" height="40" alt="Android Studio" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
@@ -65,6 +65,11 @@
   <img src="icons/raspberry-pi.svg" height="40" alt="raspberry-pi" />
   <img src="icons/esp32.png" height="40" alt="ESP32" />
   <img src="icons/Altium.png" height="40" alt="Altuim" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
+<img src="https://logotyp.us/file/keil.svg" height="40" alt="Keil" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/STM32CubeMX_Logo.svg" height="40" alt="STM32Cube" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+
   </p>
 
 
