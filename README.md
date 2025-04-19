@@ -55,21 +55,23 @@
 ### ⚙️ ابزارها و زبان‌هایی که با آن‌ها کار کرده‌ام:
  
   <p align="left">
-  <img src="icons/android-studio.png" height="40" alt="Android Studio" />
+    <img src="icons/android-studio.png" height="40" alt="Android Studio" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="icons/raspberry-pi.svg" height="40" alt="raspberry-pi" />
-  <img src="icons/esp32.png" height="40" alt="ESP32" />
-  <img src="icons/Altium.png" height="40" alt="Altuim" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
-<img src="https://logotyp.us/file/keil.svg" height="40" alt="Keil" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/STM32CubeMX_Logo.svg" height="40" alt="STM32Cube" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+    <img src="icons/raspberry-pi.svg" height="40" alt="raspberry-pi" />
+    <img src="icons/esp32.png" height="40" alt="ESP32" />
+    <img src="icons/Altium.png" height="40" alt="Altuim" />
+    <img src="icons/Cube.png" height="40" alt="CubeMX" />
+    <img src="icons/Wifi.SVG" height="40" alt="WiFi" />
+    <img src="icons/bluetooth.SVG" height="40" alt="Bluetooth" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
+    <img src="https://logotyp.us/file/keil.svg" height="40" alt="Keil" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/STM32CubeMX_Logo.svg" height="40" alt="STM32Cube" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   </p>
 
 
