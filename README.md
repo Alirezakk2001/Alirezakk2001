@@ -72,9 +72,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-    <img src="icons/raspberry-pi.svg" height="40" alt="raspberry-pi" />
     <img src="icons/wifi.svg" height="40" alt="WiFi" />
     <img src="icons/bluetooth.svg" height="40" alt="Bluetooth" />
+    <img src="icons/raspberry-pi.svg" height="40" alt="raspberry-pi" />
     <img src="icons/esp32.png" height="40" alt="ESP" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
