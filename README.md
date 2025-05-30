@@ -73,6 +73,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" height="40" alt="Firebase" />
     <img src="icons/wifi.svg" height="40" alt="WiFi" />
     <img src="icons/bluetooth.svg" height="40" alt="Bluetooth" />
     <img src="icons/raspberry-pi.svg" height="40" alt="raspberry-pi" />
@@ -86,6 +87,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
     <img src="icons/postman.svg" height="40" alt="POSTMAN" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
-  </p>
+ </p>
 
 
