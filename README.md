@@ -70,8 +70,9 @@
  <p align="left">
     • <img src="icons/app_logo.png" height="40" alt="Android Studio" /> ** Android Phone Details ** 
     </p>
-  📥 لینک:/n\n 
- کافه بازار: [مشاهده](https://cafebazaar.ir/app/com.technest.androiddetails)
+  📥 لینک:
+  
+ کافه بازار: (https://cafebazaar.ir/app/com.technest.androiddetails)[مشاهده]
 
 🔜 باقی اپلیکیشن‌ها نیز بزودی.... 
 
