@@ -67,13 +67,14 @@
 ---
 📲 اپلیکیشن‌های منتشرشده:
 
-• <p align="left">
-    <img src="icons/android-studio.png" height="40" alt="Android Studio" />  Android Phone Details – اپلیکیشن نمایش مشخصات کامل گوشی اندرویدی  
+ <p align="left">
+    • <img src="icons/app_logo.png" height="40" alt="Android Studio" /> ** Android Phone Details ** 
     </p>
-  📥 لینک: 
+  📥 لینک:/n\n 
  کافه بازار: [مشاهده](https://cafebazaar.ir/app/com.technest.androiddetails)
 
 🔜 باقی اپلیکیشن‌ها نیز بزودی.... 
+
 ---
 
 ### ⚙️ ابزارها و زبان‌هایی که با آن‌ها کار کرده‌ام:
