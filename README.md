@@ -65,21 +65,19 @@
 برای همکاری یا دیدن پروژه‌های بیشتر، خوشحال می‌شم از طریق گیت‌هاب یا ایمیل <alireza.karami.work@gmial.com> با من در تماس باشید 😊
 
 ---
-📲 اپلیکیشن‌های منتشرشده:
+## 📲 اپلیکیشن‌های منتشرشده
+---
 
 <p align="center">
   <img src="icons/app_logo.png" height="60" alt="App Icon" />
   <br />
-  <span style="font-weight: bold; font-size: 18px;">Android Phone Details</span>
+  <strong><h3>Android Phone Details</h3></strong>
+  <p>
+    کافه بازار: <a href="https://cafebazaar.ir/app/com.technest.androiddetails">مشاهده</a>
+  </p>
 </p>
 
-
-  <p align="right" 📥 لینک:>
-  </p>
-  
- کافه بازار: (https://cafebazaar.ir/app/com.technest.androiddetails)[مشاهده]
-
-🔜 باقی اپلیکیشن‌ها نیز بزودی.... 
+🔜 باقی اپلیکیشن‌ها نیز به‌زودی اضافه خواهند شد...
 
 ---
 
