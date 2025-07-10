@@ -67,10 +67,15 @@
 ---
 📲 اپلیکیشن‌های منتشرشده:
 
- <p align="left">
-    • <img src="icons/app_logo.png" height="35" alt="Android Studio" /> ** Android Phone Details ** 
-    </p>
-  <p align="right" 📥 لینک:  />
+<p align="center">
+  <img src="icons/app_logo.png" height="60" alt="App Icon" />
+  <br />
+  <span style="font-weight: bold; font-size: 18px;">Android Phone Details</span>
+</p>
+
+
+  <p align="right" 📥 لینک:>
+  </p>
   
  کافه بازار: (https://cafebazaar.ir/app/com.technest.androiddetails)[مشاهده]
 
