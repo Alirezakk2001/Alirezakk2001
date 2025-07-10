@@ -68,16 +68,20 @@
 ## 📲 اپلیکیشن‌های منتشرشده
 ---
 
-<p align="center">
+## 📲 اپلیکیشن‌های منتشرشده
+---
+
+<div align="center">
   <img src="icons/app_logo.png" height="60" alt="App Icon" />
   <br />
-  <strong><h3>Android Phone Details</h3></strong>
-  <p>
-    کافه بازار: <a href="https://cafebazaar.ir/app/com.technest.androiddetails">مشاهده</a>
-  </p>
-</p>
+  <h3><strong>Android Phone Details</strong></h3>
+  <p>کافه بازار: <a href="https://cafebazaar.ir/app/com.technest.androiddetails">مشاهده</a></p>
+</div>
 
-🔜 باقی اپلیکیشن‌ها نیز به‌زودی اضافه خواهند شد...
+---
+
+🔜 باقی اپلیکیشن‌ها نیز به‌زودی...
+
 
 ---
 
