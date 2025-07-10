@@ -76,7 +76,6 @@
   <p>کافه بازار: <a href="https://cafebazaar.ir/app/com.technest.androiddetails">مشاهده</a></p>
 </div>
 
---
 
 🔜 باقی اپلیکیشن‌ها نیز به‌زودی...
 
