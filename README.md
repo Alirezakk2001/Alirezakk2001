@@ -74,6 +74,7 @@
   <br />
   <h3><strong>Android Phone Details</strong></h3>
   <p>کافه بازار: <a href="https://cafebazaar.ir/app/com.technest.androiddetails">مشاهده</a></p>
+  <p>مایکت: <a href="https://myket.ir/app/com.technest.androiddetails">مشاهده</a></p>
 </div>
 
 
