@@ -11,7 +11,7 @@
 - مسلط به **REST APIs**، **LiveData**، **DataBinding** و **Dependency Injection**
 - مسلط به الگوهای طراحی (**Design Patterns**)
 - مسلط به **Jetpack Compose**
-- - مسلط به **FireBase** و **FireStore**
+- مسلط به **FireBase** و **FireStore**
 - تجربه‌ی کامل در کار با پروتکل‌های **Bluetooth**، **WiFi** و **USB**
 - تخصص در توسعه اپلیکیشن برای **IOT** و ارتباط با سخت‌افزار
 - تجربه کار روی **Embedded Boards** مثل **Firefly** و **Raspberry Pi**
