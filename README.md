@@ -9,7 +9,8 @@
 - مسلط به زبان‌های **Java** و **Kotlin**
 - مسلط به **SQL** و دیتابیس‌ها
 - مسلط به **REST APIs**، **LiveData**، **DataBinding** و **Dependency Injection**
-- آشنا به الگوهای طراحی (**Design Patterns**)
+- مسلط به الگوهای طراحی (**Design Patterns**)
+- مسلط به **Jetpack Compose**
 - - مسلط به **FireBase** و **FireStore**
 - تجربه‌ی کامل در کار با پروتکل‌های **Bluetooth**، **WiFi** و **USB**
 - تخصص در توسعه اپلیکیشن برای **IOT** و ارتباط با سخت‌افزار
